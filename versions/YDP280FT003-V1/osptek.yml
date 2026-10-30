@@ -1,0 +1,10 @@
+id: YDP280FT003-V1
+category: displays
+size: "2.8"
+panel: tft
+resolution: 240x320
+interface: [spi, mcu]
+driver: ST7789V
+touch: null
+outline: 50 x 69.2 x 2.45 mm
+active_area: 43.2 x 57.6 mm
